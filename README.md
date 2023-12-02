@@ -21,4 +21,4 @@ Personal notes from various valuable sources compiled at oneplace
 **Testnets**
 
 ![sol6](https://github.com/juniorjudy123/SolidityBasics-git/assets/119035261/e6c5b1e9-0f49-46f7-8326-61366c0329f8)
-![sol7](https://github.com/juniorjudy123/SolidityBasics-git/assets/119035261/8b456666-d756-468f-a8ea-5468b8989879)
+
